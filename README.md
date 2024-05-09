@@ -65,4 +65,5 @@ RegisterNumber:212223110044
 ![image](https://github.com/srisrisaranya/T-FLIPFLOP-POSEDGE/assets/148516638/6d4fb327-9022-4f2a-bd0c-c2840c098836)
 
 **RESULTS**
+
 T flipflop using verilog and validating their functionality using their functional tables completed
